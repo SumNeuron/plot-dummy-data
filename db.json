@@ -1,0 +1,50 @@
+{
+  "Largest Cities": {
+    "America": {
+      "New York City": { "population": 8406000 },
+      "Los Angeles": { "population": 3884000 },
+      "Chicago": { "population": 2719000 },
+      "Houston": { "population": 2196000 },
+      "Philadelphia": { "population": 1553000 },
+      "Phoenix": { "population": 1513000 },
+      "San Antonio": { "population": 1409000 },
+      "San Diego": { "population": 1356000 },
+      "Dallas": { "population": 1258000 }
+    },
+    "Germany": {
+      "Berlin": { "population": 3502000 },
+      "Hamburg": { "population": 1734000 },
+      "Munich": { "population": 1388000 },
+      "Cologne": { "population": 1024000 },
+      "Frankfurt": { "population": 687775 },
+      "Stuttgart": { "population": 597939 },
+      "Düsseldorf": { "population": 593682 },
+      "Dortmund": { "population": 572087 },
+      "Essen": { "population": 566862 }
+    },
+    "France": {
+      "Paris": { "population": 2244000 },
+      "Marseille": { "population": 850726 },
+      "Lyon": { "population": 484344 },
+      "Toulouse": { "population": 441802 },
+      "Nice": { "population": 343304 },
+      "Nantes": { "population": 284970 }
+    },
+    "China": {
+      "Chongqing": { "population": 49170000 },
+      "Shanghai": { "population": 24150000 },
+      "Beijing": { "population": 21500000 },
+      "Tianjin": { "population": 15470000 },
+      "Chengdu": { "population": 14430000 },
+      "Guangzhou": { "population": 14040000 },
+      "Shenzhen": { "population": 11910000 },
+      "Shijiazhuang": { "population": 10700000 },
+      "Harbin": { "population": 10640000 }
+    },
+    "San Marino": {
+      "San Marino": { "population": 13327 },
+      "Serravalle": { "population": 10591 },
+      "Borgo Maggiore": { "population": 6631 }
+    }
+  }
+}
