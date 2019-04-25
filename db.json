@@ -1,167 +1,321 @@
 {
   "Largest Cities": {
-    "America": {
-      "New York City": { "population": 8406000 },
-      "Los Angeles": { "population": 3884000 },
-      "Chicago": { "population": 2719000 },
-      "Houston": { "population": 2196000 },
-      "Philadelphia": { "population": 1553000 },
-      "Phoenix": { "population": 1513000 },
-      "San Antonio": { "population": 1409000 },
-      "San Diego": { "population": 1356000 },
-      "Dallas": { "population": 1258000 }
+    "0": {
+      "population": 8406000,
+      "country": "United States",
+      "city": "New York City"
     },
-    "Germany": {
-      "Berlin": { "population": 3502000 },
-      "Hamburg": { "population": 1734000 },
-      "Munich": { "population": 1388000 },
-      "Cologne": { "population": 1024000 },
-      "Frankfurt": { "population": 687775 },
-      "Stuttgart": { "population": 597939 },
-      "Düsseldorf": { "population": 593682 },
-      "Dortmund": { "population": 572087 },
-      "Essen": { "population": 566862 }
+    "1": {
+      "population": 3884000,
+      "country": "United States",
+      "city": "Los Angeles"
     },
-    "France": {
-      "Paris": { "population": 2244000 },
-      "Marseille": { "population": 850726 },
-      "Lyon": { "population": 484344 },
-      "Toulouse": { "population": 441802 },
-      "Nice": { "population": 343304 },
-      "Nantes": { "population": 284970 }
+    "2": {
+      "population": 2719000,
+      "country": "United States",
+      "city": "Chicago"
     },
-    "China": {
-      "Chongqing": { "population": 49170000 },
-      "Shanghai": { "population": 24150000 },
-      "Beijing": { "population": 21500000 },
-      "Tianjin": { "population": 15470000 },
-      "Chengdu": { "population": 14430000 },
-      "Guangzhou": { "population": 14040000 },
-      "Shenzhen": { "population": 11910000 },
-      "Shijiazhuang": { "population": 10700000 },
-      "Harbin": { "population": 10640000 }
+    "3": {
+      "population": 2196000,
+      "country": "United States",
+      "city": "Houston"
     },
-    "San Marino": {
-      "San Marino": { "population": 13327 },
-      "Serravalle": { "population": 10591 },
-      "Borgo Maggiore": { "population": 6631 }
+    "4": {
+      "population": 1553000,
+      "country": "United States",
+      "city": "Philadelphia"
+    },
+    "5": {
+      "population": 1513000,
+      "country": "United States",
+      "city": "Phoenix"
+    },
+    "6": {
+      "population": 1409000,
+      "country": "United States",
+      "city": "San Antonio"
+    },
+    "7": {
+      "population": 1356000,
+      "country": "United States",
+      "city": "San Diego"
+    },
+    "8": {
+      "population": 1258000,
+      "country": "United States",
+      "city": "Dallas"
+    },
+    "9": {
+      "population": 3502000,
+      "country": "Germany",
+      "city": "Berlin"
+    },
+    "10": {
+      "population": 1734000,
+      "country": "Germany",
+      "city": "Hamburg"
+    },
+    "11": {
+      "population": 1388000,
+      "country": "Germany",
+      "city": "Munich"
+    },
+    "12": {
+      "population": 1024000,
+      "country": "Germany",
+      "city": "Cologne"
+    },
+    "13": {
+      "population": 687775,
+      "country": "Germany",
+      "city": "Frankfurt"
+    },
+    "14": {
+      "population": 597939,
+      "country": "Germany",
+      "city": "Stuttgart"
+    },
+    "15": {
+      "population": 593682,
+      "country": "Germany",
+      "city": "Duesseldorf"
+    },
+    "16": {
+      "population": 572087,
+      "country": "Germany",
+      "city": "Dortmund"
+    },
+    "17": {
+      "population": 566862,
+      "country": "Germany",
+      "city": "Essen"
+    },
+    "18": {
+      "population": 2244000,
+      "country": "France",
+      "city": "Paris"
+    },
+    "19": {
+      "population": 850726,
+      "country": "France",
+      "city": "Marseille"
+    },
+    "20": {
+      "population": 484344,
+      "country": "France",
+      "city": "Lyon"
+    },
+    "21": {
+      "population": 441802,
+      "country": "France",
+      "city": "Toulouse"
+    },
+    "22": {
+      "population": 343304,
+      "country": "France",
+      "city": "Nice"
+    },
+    "23": {
+      "population": 284970,
+      "country": "France",
+      "city": "Nantes"
+    },
+    "24": {
+      "population": 49170000,
+      "country": "China",
+      "city": "Chongqing"
+    },
+    "25": {
+      "population": 24150000,
+      "country": "China",
+      "city": "Shanghai"
+    },
+    "26": {
+      "population": 21500000,
+      "country": "China",
+      "city": "Beijing"
+    },
+    "27": {
+      "population": 15470000,
+      "country": "China",
+      "city": "Tianjin"
+    },
+    "28": {
+      "population": 14430000,
+      "country": "China",
+      "city": "Chengdu"
+    },
+    "29": {
+      "population": 14040000,
+      "country": "China",
+      "city": "Guangzhou"
+    },
+    "30": {
+      "population": 11910000,
+      "country": "China",
+      "city": "Shenzhen"
+    },
+    "31": {
+      "population": 10700000,
+      "country": "China",
+      "city": "Shijiazhuang"
+    },
+    "32": {
+      "population": 10640000,
+      "country": "China",
+      "city": "Harbin"
+    },
+    "33": {
+      "population": 13327,
+      "country": "San Marino",
+      "city": "San Marino"
+    },
+    "34": {
+      "population": 10591,
+      "country": "San Marino",
+      "city": "Serravalle"
+    },
+    "35": {
+      "population": 6631,
+      "country": "San Marino",
+      "city": "Borgo Maggiore"
     }
   },
   "Weather": {
-    "Hamburg": {
-      "0": {
-        "day":   15,
-        "month":  1,
-        "year": 2019,
-        "temperature": 10
-      },
-      "1": {
-        "day":   15,
-        "month":  2,
-        "year": 2019,
-        "temperature": 9
-      },
-      "2": {
-        "day":   15,
-        "month":  3,
-        "year": 2019,
-        "temperature": 11
-      },
-      "3": {
-        "day":   15,
-        "month":  4,
-        "year": 2019,
-        "temperature": 12
-      },
-      "4": {
-        "day":   15,
-        "month":  5,
-        "year": 2019,
-        "temperature": 14
-      },
-      "5": {
-        "day":   15,
-        "month":  6,
-        "year": 2019,
-        "temperature": 18
-      },
-      "6": {
-        "day":   15,
-        "month":  7,
-        "year": 2019,
-        "temperature": 18
-      },
-      "7": {
-        "day":   15,
-        "month":  8,
-        "year": 2019,
-        "temperature": 17
-      },
-      "8": {
-        "day":   15,
-        "month":  9,
-        "year": 2019,
-        "temperature": 15
-      }
+    "0": {
+      "day":   15,
+      "month":  1,
+      "year": 2019,
+      "temperature": 10,
+      "city": "Hamburg"
     },
-    "Goettingen": {
-      "0": {
-        "day":   15,
-        "month":  1,
-        "year": 2019,
-        "temperature": 12
-      },
-      "1": {
-        "day":   15,
-        "month":  2,
-        "year": 2019,
-        "temperature": 13
-      },
-      "2": {
-        "day":   15,
-        "month":  3,
-        "year": 2019,
-        "temperature": 15
-      },
-      "3": {
-        "day":   15,
-        "month":  4,
-        "year": 2019,
-        "temperature": 16
-      },
-      "4": {
-        "day":   15,
-        "month":  5,
-        "year": 2019,
-        "temperature": 14
-      },
-      "5": {
-        "day":   15,
-        "month":  6,
-        "year": 2019,
-        "temperature": 14
-      },
-      "6": {
-        "day":   15,
-        "month":  7,
-        "year": 2019,
-        "temperature": 13
-      },
-      "7": {
-        "day":   15,
-        "month":  8,
-        "year": 2019,
-        "temperature": 11
-      },
-      "8": {
-        "day":   15,
-        "month":  9,
-        "year": 2019,
-        "temperature": 15
-      }
+    "1": {
+      "day":   15,
+      "month":  2,
+      "year": 2019,
+      "temperature": 9,
+      "city": "Hamburg"
+    },
+    "2": {
+      "day":   15,
+      "month":  3,
+      "year": 2019,
+      "temperature": 11,
+      "city": "Hamburg"
+    },
+    "3": {
+      "day":   15,
+      "month":  4,
+      "year": 2019,
+      "temperature": 12,
+      "city": "Hamburg"
+    },
+    "4": {
+      "day":   15,
+      "month":  5,
+      "year": 2019,
+      "temperature": 14,
+      "city": "Hamburg"
+    },
+    "5": {
+      "day":   15,
+      "month":  6,
+      "year": 2019,
+      "temperature": 18,
+      "city": "Hamburg"
+    },
+    "6": {
+      "day":   15,
+      "month":  7,
+      "year": 2019,
+      "temperature": 18,
+      "city": "Hamburg"
+    },
+    "7": {
+      "day":   15,
+      "month":  8,
+      "year": 2019,
+      "temperature": 17,
+      "city": "Hamburg"
+    },
+    "8": {
+      "day":   15,
+      "month":  9,
+      "year": 2019,
+      "temperature": 15,
+      "city": "Hamburg"
+    },
+    "9": {
+      "day":   15,
+      "month":  1,
+      "year": 2019,
+      "temperature": 12,
+      "city": "Goettingen"
+    },
+    "10": {
+      "day":   15,
+      "month":  2,
+      "year": 2019,
+      "temperature": 13,
+      "city": "Goettingen"
+    },
+    "11": {
+      "day":   15,
+      "month":  3,
+      "year": 2019,
+      "temperature": 15,
+      "city": "Goettingen"
+    },
+    "12": {
+      "day":   15,
+      "month":  4,
+      "year": 2019,
+      "temperature": 16,
+      "city": "Goettingen"
+    },
+    "13": {
+      "day":   15,
+      "month":  5,
+      "year": 2019,
+      "temperature": 14,
+      "city": "Goettingen"
+    },
+    "14": {
+      "day":   15,
+      "month":  6,
+      "year": 2019,
+      "temperature": 14,
+      "city": "Goettingen"
+    },
+    "15": {
+      "day":   15,
+      "month":  7,
+      "year": 2019,
+      "temperature": 13,
+      "city": "Goettingen"
+    },
+    "16": {
+      "day":   15,
+      "month":  8,
+      "year": 2019,
+      "temperature": 11,
+      "city": "Goettingen"
+    },
+    "17": {
+      "day":   15,
+      "month":  9,
+      "year": 2019,
+      "temperature": 15,
+      "city": "Goettingen"
+    },
+    "18": {
+      "day":   15,
+      "month":  10,
+      "year": 2019,
+      "temperature": 13,
+      "city": "Goettingen"
     }
-  }
-  ,
+  },
   "Profiles": {
     "0":  {
       "name": "bob",
